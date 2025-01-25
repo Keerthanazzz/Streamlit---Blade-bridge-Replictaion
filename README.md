@@ -3,6 +3,7 @@
 # BladeBridge Replication in Streamlit
 
 This project is a **replication of the BladeBridge Studio** built using Streamlit. It provides a dynamic and interactive interface with features such as navigation menus, content sections, feedback forms, and video embedding. The design is tailored to create a seamless user experience.
+the content has been Lorem Ipsum text version
 
 ## Features
 - **Dynamic Navigation Bar**: Includes dropdown menus and links to multiple pages.
